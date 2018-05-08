@@ -1,8 +1,8 @@
 ﻿<#
 
 
-    Retrieves Ips and Url for Office 365 from REST webservice
-    Creates csv files for each O4365 workload
+    Retrieves Ips and Urls for Office 365 from REST webservice
+    Creates csv files for each O365 workload
 
     by Pierluigi Pesce aka pierfish
 
